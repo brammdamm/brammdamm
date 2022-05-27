@@ -1,0 +1,7 @@
+ 
+first enum {
+SUNDAY, MONDAY, TUESDAY
+
+}
+
+
